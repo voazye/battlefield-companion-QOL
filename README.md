@@ -10,6 +10,6 @@ This extension fixes an issue in the Battlefield Companion emblem editor (compan
 
 This extension does not collect, store, or transmit any user data. It only modifies the in-page rendering behavior of the canvas to restore and extend the rotation functionality.
 
-<a href="https://ko-fi.com" target="_blank">
-  <img src="https://ko-fi.com" alt="Tiny donation ｡◕‿◕｡" height="36" style="border:0px;height:36px;" />
+<a href="https://ko-fi.com/voazye" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/7070/7070785.png" alt="Tiny donation ｡◕‿◕｡" height="36" style="border:0px;height:36px;" />
 </a>
