@@ -14,5 +14,5 @@ This extension does not collect, store, or transmit any user data. It only modif
 
 ### If you like this extension, please consider leaving a Tiny donation ｡◕‿◕｡. Thank you :D
 <a href="https://ko-fi.com/voazye" target="_blank">
-  <img src="https://i.imgur.com/h6saoAf.png" alt="Tiny donation ｡◕‿◕｡" height="512" style="border:0px;height:512px;" />
+  <img src="https://i.imgur.com/h6saoAf.png" alt="Tiny donation ｡◕‿◕｡" height="256" style="border:0px;height:256px;" />
 </a>
