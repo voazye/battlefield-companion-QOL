@@ -1,4 +1,4 @@
-# Battlefield Companion Rotation Symbol Fix
+# Battlefield Companion Rotation Fix
 
 This extension fixes an issue in the Battlefield Companion emblem editor (companion.battlefield.com), where the rotation control for placed shapes is disabled by default. It automatically detects the editor's underlying Fabric.js canvas and restores full rotation support, plus adds a few quality-of-life improvements that go beyond the original editor.
 
@@ -12,10 +12,12 @@ This extension fixes an issue in the Battlefield Companion emblem editor (compan
 
 This extension does not collect, store, or transmit any user data. It only modifies the in-page rendering behavior of the canvas to restore and extend the rotation functionality.
 
+This extension is written primarily for Firefox. I am currently working on a release on the Firefox add-on store.
+The link to the extension will be provided once approved and successfully published.
+
 ### If you like this extension, please consider leaving a Tiny donation ｡◕‿◕｡. Thank you :D
 <div align="center">
   <a href="https://ko-fi.com/voazye" target="_blank">
     <img src="https://i.imgur.com/h6saoAf.png" alt="Tiny donation ｡◕‿◕｡" height="256" style="border:0px;height:256px;" />
   </a>
 </div>
-
