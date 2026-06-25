@@ -15,6 +15,8 @@ This extension does not collect, store, or transmit any user data. It only modif
 This extension is written primarily for Firefox. I am currently working on a release on the Firefox add-on store.
 The link to the extension will be provided once approved and successfully published.
 
+I might add some more QOL stuff in the future. Depends heavily on wether it is required or not.
+
 ### If you like this extension, please consider leaving a Tiny donation ｡◕‿◕｡. Thank you :D
 <div align="center">
   <a href="https://ko-fi.com/voazye" target="_blank">
