@@ -10,10 +10,19 @@ This extension fixes an issue in the Battlefield Companion emblem editor (compan
 - Shows a live angle readout next to the canvas while a shape is selected
 - Lets you type an exact angle (0–359°) directly into the readout box to set it precisely
 
+## Installation
+
+This extension is written primarily for Firefox:
+ https://addons.mozilla.org/en-US/firefox/addon/battlefield-emblem-rotate-fix/
+
+For manual installation: 
+
+- Download this repository as a `.zip` file.
+- On Firefox, head to `about:debugging`
+- Load the plugin as a temporary plugin from the `.zip`. Note, that the add-on will disappear if you close the browser with this method.
+
 This extension does not collect, store, or transmit any user data. It only modifies the in-page rendering behavior of the canvas to restore and extend the rotation functionality.
 
-This extension is written primarily for Firefox. Here is a link:
-https://addons.mozilla.org/en-US/firefox/addon/battlefield-emblem-rotate-fix/
 
 I might add some more QOL stuff in the future. Depends heavily on wether it is required or not.
 
