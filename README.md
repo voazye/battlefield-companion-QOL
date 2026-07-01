@@ -12,8 +12,8 @@ This extension fixes an issue in the Battlefield Companion emblem editor (compan
 
 This extension does not collect, store, or transmit any user data. It only modifies the in-page rendering behavior of the canvas to restore and extend the rotation functionality.
 
-This extension is written primarily for Firefox. I am currently working on a release on the Firefox add-on store.
-The link to the extension will be provided once approved and successfully published.
+This extension is written primarily for Firefox. Here is a link:
+https://addons.mozilla.org/en-US/firefox/addon/battlefield-emblem-rotate-fix/
 
 I might add some more QOL stuff in the future. Depends heavily on wether it is required or not.
 
